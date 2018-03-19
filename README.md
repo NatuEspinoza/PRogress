@@ -6,21 +6,21 @@ Hoy en día los hábitos de vida saludable son cada vez más populares, tanto as
 
 No hay cifras exactas de cuantas personas practican Crossfit en Chile hoy en día, pero solo en Santiago hay más de 100 box en donde practicarlo.
 
-####Proceso de Diseño
+#### Proceso de Diseño
 
 Mi proceso de diseño se basó en 4 etapas fundamentales para lograr llegar a un resultado óptimo en el tiempo solicitado.
 
 [Aqui vá FOTO]
 
-####Planificación
+#### Planificación
 
 Para la organización del proyecto fue fundamental la planificación de las tareas necesarias para avanzar en el proyecto. Para esto creé una Carta Gantt lo cual me permitió organizar los recursos y el tiempo con el que contaba (05 de marzo al 15 de marzo).
 
 [Aqui vá FOTO]
 
-#Investigación
+# Investigación
 
-##Encuesta
+## Encuesta
 Lo primero que realicé fue validar mi idea de proyecto, la cual era que el progreso y registro de PRs (Record Personales) para las personas que practican Crossfit es algo muy significativo, pero no tienen nada que les permita controlar y ver sus avances a lo largo del tiempo.Para esto elaboré una pequeña encuesta online que además de validar mi idea, me permitió visualizar la relación que tienen los usuarios con las plataformas tecnológicas.
 
 [Aqui vá FOTO]
@@ -39,7 +39,7 @@ Por otro lado estaban aplicaciones del tipo Timer como SmartWod, aplicación que
 
 [Aqui vá FOTO]
 
-##Benchmark
+## Benchmark
 
 En base a lo que los usuarios ya conocían se realizó un benchmark con estas y otras que están en el mercado.Analicé varias apps y existían varias limitaciones en aplicaciones para crossfitters.Por ejemplo, esta **MyWod**, app en la cual puedes apuntar todos tus logros y tiempos, tanto ejercicios con peso como repeticiones o tiempos que hayas hecho en los WOD ́s.La primera** limitante y que se repite en varios casos es la del idioma**, si bien los nombres de ejercicios y de palabras claves en el Crossfit son en inglés, es una barrera para los usuarios que la app completa lo esté.Hay una **limitante a la hora de registrar un WOD**,ya que no permite crear nuevos y finalmente **no permite dejar registros visuales (foto o video).**
 Por otro lado estan apps como **WODbook y WodZilla** en las cuales la principal limitante es que gran parte de las funciones no se pueden realizar **si no pagas por la versión PRO,** inpidiendo medir progresos,además no son apps  muy populares en Chile.
@@ -47,16 +47,16 @@ Finalmente esta **Box Magic**, pero tal y como lo mencioné antes no está enfoc
 
 [Aqui vá FOTO]
 
-##Entrevistas
+## Entrevistas
 
 Para empatizar mucho más con los usuarios y acercarme a sus motivaciones fue fundamental tener la instancia de conversar, aclarar algunas inquietudes que quedaron desde la encuesta y entender la relación que tienen ellos con las plataformas digitales. Para esto lo principal era tener claro que me quería responder con estas entrevistas y saber cuál era mi principal objetivo.
 
 **Objetivo:
 ¿Cómo identificar las principales necesidades y motivaciones personales de progreso de quienes practican Crossfit?**
 
-#Análisis
+# Análisis
 
-##Affinity map
+## Affinity map
 
 [Aqui vá FOTO]
 
@@ -70,16 +70,16 @@ El realizar un mapa de afinidad basado en lo que comentaban los usuarios en la e
 
 4. Finalmente unas de las palabras que más se repitió fue “motivación”. Para todos es muy importante ser mejores que ayer, desbloquear movimientos nuevos y motivarse entre com-pañeros.
 
-##User Personas
+## User Personas
 
 El mapa de afinidad que realicé permitió llevar los cuatro ejes a **dos tipos de personas** y a su vez **identificar la problemática principal** de nuestros usuarios, la cual es que ellos **no tienen como visibilizar sus progresos de manera rápida y al alcance.** La encuesta valida esta problemática y las entrevistas con usuarios confirmó la motivación de los atletas de ser mejores y motivar a sus pares.
 
 [Aqui vá FOTO de USER PERSONAS]
 
-##Customer Journey
+## Customer Journey
 
 Realicé el viaje del **primary user “El competidor”**(seleccioné a este usuario por que representa mucho mejor la problemática),enfocado en su experiencia de ir a entrenar, considerando **el antes, durante y el después**. En cada una de estas fases se consideraron los puntos de interacción que podría tener mi producto con el usuario, los problemas a los que se enfrenta, la experiencia misma y el proceso que es el usuario hablando y viviendo la experiencia en su propio lenguaje.
 
 [Aqui vá FOTO de CUSTOMER JOURNEY]
 
-##Contenido
+## Contenido
