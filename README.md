@@ -7,7 +7,6 @@ Hoy en día los hábitos de vida saludable son cada vez más populares, tanto as
 No hay cifras exactas de cuantas personas practican Crossfit en Chile hoy en día, pero solo en Santiago hay más de 100 box en donde practicarlo.
 
 ####Proceso de Diseño
-
 Mi proceso de diseño se basó en 4 etapas fundamentales para lograr llegar a un resultado óptimo en el tiempo solicitado.
 
 [Aqui vá FOTO]
