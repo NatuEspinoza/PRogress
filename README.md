@@ -36,14 +36,12 @@ Con respecto a las respuestas anteriores la primera pregunta abierta buscó inda
 Finalmente se buscó saber la relación entre las personas y los productos digitales.Con respecto a las aplicaciones móviles que utilizaban o alguna vez utilizaron las personas, resaltan algunas como **SugarWod, Booki y BoxMagic.** Aplicaciones creadas para los dueños y entrenadores de instalacio-nes deportivas que desean tener un registro de todo con respecto a sus alumnos.Es decir, solo tienen acceso a estas app, los clientes de los box que cuenten con ese sistema de registro.
 Por otro lado estaban aplicaciones del tipo Timer como SmartWod, aplicación que no permite dejar guardado el registro de los tiempos y otras aplicaciones que se limitaban al ser de pago.
 
-[Aqui vá FOTO]
-
 ## Benchmark
 En base a lo que los usuarios ya conocían se realizó un benchmark con estas y otras que están en el mercado.Analicé varias apps y existían varias limitaciones en aplicaciones para crossfitters.Por ejemplo, esta **MyWod**, app en la cual puedes apuntar todos tus logros y tiempos, tanto ejercicios con peso como repeticiones o tiempos que hayas hecho en los WOD ́s.La primera** limitante y que se repite en varios casos es la del idioma**, si bien los nombres de ejercicios y de palabras claves en el Crossfit son en inglés, es una barrera para los usuarios que la app completa lo esté.Hay una **limitante a la hora de registrar un WOD**,ya que no permite crear nuevos y finalmente **no permite dejar registros visuales (foto o video).**
 Por otro lado estan apps como **WODbook y WodZilla** en las cuales la principal limitante es que gran parte de las funciones no se pueden realizar **si no pagas por la versión PRO,** inpidiendo medir progresos,además no son apps  muy populares en Chile.
 Finalmente esta **Box Magic**, pero tal y como lo mencioné antes no está enfocada en progre-sos, sin embargo, el principal defecto está en que si no eres de alumno de un box que este asociado no puedes usar la app.Por otra parte, los récord y benchmark no se ordenan por fecha, esto no permite tener el control del progresos.
 
-[Aqui vá FOTO]
+![benchmark](https://i.imgur.com/lSUvn2s.jpg)
 
 ## Entrevistas
 Para empatizar mucho más con los usuarios y acercarme a sus motivaciones fue fundamental tener la instancia de conversar, aclarar algunas inquietudes que quedaron desde la encuesta y entender la relación que tienen ellos con las plataformas digitales. Para esto lo principal era tener claro que me quería responder con estas entrevistas y saber cuál era mi principal objetivo.
@@ -54,7 +52,7 @@ Para empatizar mucho más con los usuarios y acercarme a sus motivaciones fue fu
 # Análisis
 ## Affinity map
 
-[Aqui vá FOTO]
+![affinitymap](https://i.imgur.com/8ITuWU4.jpg) 
 
 El realizar un mapa de afinidad basado en lo que comentaban los usuarios en la entrevista permitió llegar a cuatro ejes de gran importancia para los usuarios.
 
@@ -70,7 +68,8 @@ El realizar un mapa de afinidad basado en lo que comentaban los usuarios en la e
 
 El mapa de afinidad que realicé permitió llevar los cuatro ejes a **dos tipos de personas** y a su vez **identificar la problemática principal** de nuestros usuarios, la cual es que ellos **no tienen como visibilizar sus progresos de manera rápida y al alcance.** La encuesta valida esta problemática y las entrevistas con usuarios confirmó la motivación de los atletas de ser mejores y motivar a sus pares.
 
-[Aqui vá FOTO de USER PERSONAS]
+![user persona](https://i.imgur.com/uz5SBax.jpg)
+![user persona](https://i.imgur.com/q6fuFbO.jpg)
 
 ## Customer Journey
 Realicé el viaje del **primary user “El competidor”**(seleccioné a este usuario por que representa mucho mejor la problemática),enfocado en su experiencia de ir a entrenar, considerando **el antes, durante y el después**. En cada una de estas fases se consideraron los puntos de interacción que podría tener mi producto con el usuario, los problemas a los que se enfrenta, la experiencia misma y el proceso que es el usuario hablando y viviendo la experiencia en su propio lenguaje.
