@@ -74,7 +74,7 @@ El mapa de afinidad que realicé permitió llevar los cuatro ejes a **dos tipos 
 ## Customer Journey
 Realicé el viaje del **primary user “El competidor”**(seleccioné a este usuario por que representa mucho mejor la problemática),enfocado en su experiencia de ir a entrenar, considerando **el antes, durante y el después**. En cada una de estas fases se consideraron los puntos de interacción que podría tener mi producto con el usuario, los problemas a los que se enfrenta, la experiencia misma y el proceso que es el usuario hablando y viviendo la experiencia en su propio lenguaje.
 
-[Aqui vá FOTO de CUSTOMER JOURNEY]
+![viaje del usuario](https://i.imgur.com/Kx2wSb1.png)
 
 ## Contenido
 Basada en el viaje de usuario definí el contenido que debía tener la aplicación.
@@ -84,18 +84,18 @@ El segundo punto crítico apunta al **timer** el cual es un elemento esencial en
 ### Árbol de contenido
 Este árbol de contenidos se focaliza en las secciones de Timer y PRs, ya que estas son las que desarrollaré en esta primera versión, sin embargo, es importante considerarlas desde ya para no tener problemas de arquitectura de información.
 
-[foto de árbol de contenido]
+![árbol de contenido](https://i.imgur.com/n5OKUuR.png)
 
 # Diseño
 ## User Flow
 Para poder comenzar con el desarrollo de los primeros wireframes fue fundamental generar un user flow con el fin de pensar de mejor manera en los wireframes, a medida que se iteraba y testeaban los prototipos, el user flow varió levemente como se señala en la imagen.
 
-[foto de user flow]
+![user flow](https://i.imgur.com/qZJZBiA.jpg) 
 
 ##Primeros Wireframes
 Diseñé los wireframes basados en las tareas que deseaba testear con los usuarios.
 
-[foto de wireframes]
+![wireframes](https://i.imgur.com/CwCtdkE.jpg)  
 
 # Validación
 ## Test de prototipo 1
@@ -106,7 +106,7 @@ El flujo en general se entiende bastante bien y la sintesis iconográfica a pesa
 * No queda claro para que es el botón ni cómo crear el wod.
 * El orden del flujo no corresponde, ya que se estaba felicitando al usuario antes de que completara la tarea.
 
-[fotos wireframes]
+![resultados test](https://i.imgur.com/dURiFse.jpg)  
 
 # Diseño
 ## Wireframes digitales
