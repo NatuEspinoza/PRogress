@@ -115,7 +115,9 @@ Trabaje en Figma el diseño de los wireframes, el prototipo lo realicé con Marv
 En esta etapa también le di énfasis a la **arquitectura de la información** sobre todo en jerarquización.
 Definir apariencia de botones (incluso cuando están desactivados) y tamaños tipográficos.
 
-[fotos wireframes y correcciones]
+![wireframes digitales](https://i.imgur.com/T1ApJLN.jpg) 
+![wireframes digitales](https://i.imgur.com/L1UGz2x.jpg) 
+![wireframes digitales](https://i.imgur.com/STwnjFd.jpg) 
 
 # Validación
 ## Test prototipo 2
@@ -123,12 +125,15 @@ A partir del segundo test salieron muchos más detalles sobre como entendían o 
 Los mensajes que entrega un botón deben ser lo suficientemente claros para no hacer dudar al usuario.
 Costaba que visualizaran ciertos elementos por lo cual la jerarquización jugó un rol fundamental.
 
-[fotos wireframes y correcciones]
+![resultados test](https://i.imgur.com/zjoYvqn.jpg) 
+![resultados test](https://i.imgur.com/8dK6sV7.jpg) 
+![resultados test](https://i.imgur.com/AMwyTpt.jpg) 
+![resultados test](https://i.imgur.com/BVkLRIO.jpg) 
 
 # Diseño
 ## MVP
 
-[fotos wireframes]
+![MVP](https://i.imgur.com/Kvv3VRL.jpg) 
 
 ###### Link a prototipo final en Figma
 https://www.figma.com/proto/WdHiAE7zMxrRGsGrenxhymGs/PRogress?scaling=contain&node-id=2%3A1&redirected=1
