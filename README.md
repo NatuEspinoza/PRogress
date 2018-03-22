@@ -1,4 +1,4 @@
-![MiViaje](https://i.imgur.com/zrds2RU.png)
+![PRogress](https://i.imgur.com/zrds2RU.png)
 
 Hoy en día los hábitos de vida saludable son cada vez más populares, tanto así que para muchos ya es un estilo de vida, lo cual a puesto en la palestra varios deportes que no eran muy conocidos hace un par de años atrás, entre ellos el **Crossfit.**
 
@@ -10,21 +10,22 @@ No hay cifras exactas de cuantas personas practican Crossfit en Chile hoy en dí
 
 Mi proceso de diseño se basó en 4 etapas fundamentales para lograr llegar a un resultado óptimo en el tiempo solicitado.
 
-[Aqui vá FOTO]
+![etapas](https://i.imgur.com/zoHfi1Z.jpg)
 
 #### Planificación
 Para la organización del proyecto fue fundamental la planificación de las tareas necesarias para avanzar en el proyecto. Para esto creé una Carta Gantt lo cual me permitió organizar los recursos y el tiempo con el que contaba (05 de marzo al 15 de marzo).
 
-[Aqui vá FOTO]
+![planificación](https://i.imgur.com/zKPgeA6.jpg)
 
 # Investigación
 ## Encuesta
-Lo primero que realicé fue validar mi idea de proyecto, la cual era que el progreso y registro de PRs (Record Personales) para las personas que practican Crossfit es algo muy significativo, pero no tienen nada que les permita controlar y ver sus avances a lo largo del tiempo.Para esto elaboré una pequeña encuesta online que además de validar mi idea, me permitió visualizar la relación que tienen los usuarios con las plataformas tecnológicas.
+Lo primero que realicé fue validar mi idea de proyecto, la cual era que el progreso y registro de PRs (Record Personales) para las personas que practican Crossfit es algo muy significativo, pero no tienen nada que les permita controlar y ver sus avances a lo largo del tiempo. Para esto elaboré una pequeña encuesta online que además de validar mi idea, me permitió visualizar la relación que tienen los usuarios con las plataformas tecnológicas.
 
-[Aqui vá FOTO]
+![validar](https://i.imgur.com/f6LDJW2.jpg)
 
 La encuesta consideró a un universo de 85 personas de todo Chile, contó con dos preguntas de alternativa y dos preguntas abiertas.De este universo de personas la mayoría llevaba entre 1 y 3 años practicandoeste deporte (51 personas),  20 personas llevaban menos de 1 año y el resto más de 3 años (14 personas).
-Con respecto a cómo se relacionan los deportistas con sus PRs y sus progresos, las cifras sorprendieron un poco, ya que un 60% de las personas no registraban sus PRs, algo que se contradice con el espíritu de supera-ción del Crossfit. ¿Qué pasó entonces?Con respecto a los que utilizaban una app, al indagar más en estas noté que eran aplica-ciones asociadas al Box en el cual entrena-ban, es decir aplicaciones que su principalfunción era agendar y registrar la asistencia al lugar en donde entrenaban.
+Con respecto a cómo se relacionan los deportistas con sus PRs y sus progresos, las cifras sorprendieron un poco, ya que un 60% de las personas no registraban sus PRs, algo que se contradice con el espíritu de supera-ción del Crossfit. ¿Qué pasó entonces?.
+Con respecto a los que utilizaban una app, al indagar más en estas noté que eran aplica-ciones asociadas al Box en el cual entrena-ban, es decir aplicaciones que su principalfunción era agendar y registrar la asistencia al lugar en donde entrenaban.
 
 [Aqui vá FOTO]
 
