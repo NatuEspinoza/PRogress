@@ -23,15 +23,15 @@ Lo primero que realicé fue validar mi idea de proyecto, la cual era que el prog
 
 ![validar](https://i.imgur.com/f6LDJW2.jpg)
 
-La encuesta consideró a un universo de 85 personas de todo Chile, contó con dos preguntas de alternativa y dos preguntas abiertas.De este universo de personas la mayoría llevaba entre 1 y 3 años practicandoeste deporte (51 personas),  20 personas llevaban menos de 1 año y el resto más de 3 años (14 personas).
+La encuesta consideró a un universo de 85 personas de todo Chile, contó con dos preguntas de alternativa y dos preguntas abiertas.De este universo de personas la mayoría llevaba entre 1 y 3 años practicandoeste deporte (51 personas), 20 personas llevaban menos de 1 año y el resto más de 3 años (14 personas).
 Con respecto a cómo se relacionan los deportistas con sus PRs y sus progresos, las cifras sorprendieron un poco, ya que un 60% de las personas no registraban sus PRs, algo que se contradice con el espíritu de supera-ción del Crossfit. ¿Qué pasó entonces?.
 Con respecto a los que utilizaban una app, al indagar más en estas noté que eran aplica-ciones asociadas al Box en el cual entrena-ban, es decir aplicaciones que su principalfunción era agendar y registrar la asistencia al lugar en donde entrenaban.
 
-[Aqui vá FOTO]
+![gráficos](https://i.imgur.com/yYwY2vE.jpg)
 
 Con respecto a las respuestas anteriores la primera pregunta abierta buscó indagar en las motivaciones de las personas para registrar o no sus PRs, concluí que gran parte del 60% de personas que no registran sus PRs es porque no tienen nada que les permita hacerlo de manera rápida, cómoda y desde el lugar en donde están entrenando, porque finalmente los PRs y los WOD se viven ahí, en el Box.Por otro lado, se ve la gran importancia de querer registrar los progresos ya sea por motivos competitivos o por el simple hecho de ser mejor que ayer, como evangeliza el Crossfit.
 
-[Aqui vá FOTO]
+![registro de PRs](https://i.imgur.com/A973qqN.jpg)
 
 Finalmente se buscó saber la relación entre las personas y los productos digitales.Con respecto a las aplicaciones móviles que utilizaban o alguna vez utilizaron las personas, resaltan algunas como **SugarWod, Booki y BoxMagic.** Aplicaciones creadas para los dueños y entrenadores de instalacio-nes deportivas que desean tener un registro de todo con respecto a sus alumnos.Es decir, solo tienen acceso a estas app, los clientes de los box que cuenten con ese sistema de registro.
 Por otro lado estaban aplicaciones del tipo Timer como SmartWod, aplicación que no permite dejar guardado el registro de los tiempos y otras aplicaciones que se limitaban al ser de pago.
