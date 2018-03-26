@@ -135,10 +135,10 @@ Costaba que visualizaran ciertos elementos por lo cual la jerarquización jugó 
 
 ![MVP](https://i.imgur.com/Kvv3VRL.jpg) 
 
-###### Link a prototipo final en Figma
+#### Link a prototipo final en Figma
 https://www.figma.com/proto/WdHiAE7zMxrRGsGrenxhymGs/PRogress?scaling=contain&node-id=2%3A1&redirected=1
 
-
+##### Proyecto desarrollado para Laboratoria Chile
 
 
 
