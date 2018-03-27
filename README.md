@@ -1,4 +1,4 @@
-# Progress
+# PRogress
 
 Hoy en día los hábitos de vida saludable son cada vez más populares, tanto así que para muchos ya es un estilo de vida, lo cual a puesto en la palestra varios deportes que no eran muy conocidos hace un par de años atrás, entre ellos el **Crossfit.**
 
