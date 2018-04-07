@@ -1,5 +1,5 @@
 # PRogress
-
+#### [Ver prototipo final en Figma](https://www.figma.com/proto/WdHiAE7zMxrRGsGrenxhymGs/PRogress?scaling=contain&node-id=2%3A1&redirected=1)
 Hoy en día los hábitos de vida saludable son cada vez más populares, tanto así que para muchos ya es un estilo de vida, lo cual a puesto en la palestra varios deportes que no eran muy conocidos hace un par de años atrás, entre ellos el **Crossfit.**
 
 *“CrossFit es un programa de acondicionamiento físico general, amplio e inclusivo, que tiene como objetivo el desarrollo de todas las capacidades físicas. La funcionalidad, la variedad y la intensidad son sus pilares.”*
@@ -139,6 +139,4 @@ Costaba que visualizaran ciertos elementos por lo cual la jerarquización jugó 
 
 #### Proyecto desarrollado para
 [Laboratoria Chile](http://www.laboratoria.la)
-
-#### [Link a prototipo final en Figma](https://www.figma.com/proto/WdHiAE7zMxrRGsGrenxhymGs/PRogress?scaling=contain&node-id=2%3A1&redirected=1)
 
